@@ -4,6 +4,10 @@ import json
 import numpy as np
 
 def compute_motion(prev_gray, curr_gray):
+    # Подгоняем размер, если не совпадает
+    if prev_gray.shape != curr_gray.shape:
+        curr_gray = cv2.resize(curr_gray, (prev_gray.shape[1], prev_gray.shape[0]))
+    
     flow = cv2.calcOpticalFlowFarneback(
         prev_gray, curr_gray, None,
         0.5, 3, 15, 3, 5, 1.2, 0
@@ -20,6 +24,10 @@ def analyze_motion(frames_dir="data/frames", output_path="data/motion_profile.js
     for fname in frames:
         path = os.path.join(frames_dir, fname)
         img = cv2.imread(path)
+
+        if img is None:
+            continue
+
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
         if prev_gray is None:
@@ -41,3 +49,4 @@ def analyze_motion(frames_dir="data/frames", output_path="data/motion_profile.js
 
 if __name__ == "__main__":
     analyze_motion()
+

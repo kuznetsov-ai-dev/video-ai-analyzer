@@ -7,8 +7,13 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 
 
 def extract_text_from_frame(frame_path):
-    image = Image.open(frame_path)
-    text = pytesseract.image_to_string(image, lang="eng+rus")
+    image = cv2.imread(frame_path)
+    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    # повышаем контрастность и бинаризуем
+    processed = cv2.threshold(gray, 150, 255, cv2.THRESH_BINARY)[1]
+    # можно добавить размытие или морфологию при необходимости
+    pil_img = Image.fromarray(processed)
+    text = pytesseract.image_to_string(pil_img, lang="eng+rus")
     return text.strip()
 
 def run_ocr_on_scenes(frames_dir="data/frames", output_path="data/ocr_scenes.txt"):
