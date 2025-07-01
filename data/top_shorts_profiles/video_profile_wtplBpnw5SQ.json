@@ -1,0 +1,49 @@
+{
+  "emotions_by_section": {
+    "Other": {
+      "dominant_emotion": "happy",
+      "avg_score": 0.568,
+      "count": 44
+    }
+  },
+  "speech_structure": [
+    {
+      "time": 0.0,
+      "text": "If it done with the X, move onto the next, if it done with the X Chitchat in the max And if you had me some then go on the debug Go on the Denise, baby, shake it to the max We'll take it and please tell her, be based to the max Please just you why, let me shake it to the max",
+      "section": "Hook"
+    }
+  ],
+  "hook_objects": {
+    "person": 2
+  },
+  "buildup_objects": {},
+  "color_profile": {
+    "avg_saturation": 69.72,
+    "avg_contrast": 73.14
+  },
+  "visual_peaks": [
+    {
+      "frame": "frame_00037.jpg",
+      "brightness": 146.47,
+      "change": 66.0
+    },
+    {
+      "frame": "frame_00065.jpg",
+      "brightness": 151.49,
+      "change": 61.25
+    },
+    {
+      "frame": "frame_00082.jpg",
+      "brightness": 166.39,
+      "change": 78.18
+    }
+  ],
+  "motion": {
+    "avg_motion_strength": 1.48,
+    "max_motion_strength": 15.96
+  },
+  "hook_sync_issue": {
+    "description": "Визуальный hook запаздывает на 1–2 секунды по сравнению с речевым",
+    "recommendation": "Показать собаку/костюм визуально в первые 1.5 сек ролика для усиления внимания"
+  }
+}

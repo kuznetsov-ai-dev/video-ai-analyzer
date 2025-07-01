@@ -1,0 +1,36 @@
+{
+  "emotions_by_section": {
+    "Other": {
+      "dominant_emotion": "happy",
+      "avg_score": 0.665,
+      "count": 70
+    }
+  },
+  "speech_structure": [],
+  "hook_objects": {},
+  "buildup_objects": {},
+  "color_profile": {
+    "avg_saturation": 68.37,
+    "avg_contrast": 73.36
+  },
+  "visual_peaks": [
+    {
+      "frame": "frame_00065.jpg",
+      "brightness": 151.49,
+      "change": 60.93
+    },
+    {
+      "frame": "frame_00082.jpg",
+      "brightness": 166.39,
+      "change": 78.04
+    }
+  ],
+  "motion": {
+    "avg_motion_strength": 1.51,
+    "max_motion_strength": 15.96
+  },
+  "hook_sync_issue": {
+    "description": "Визуальный hook запаздывает на 1–2 секунды по сравнению с речевым",
+    "recommendation": "Показать собаку/костюм визуально в первые 1.5 сек ролика для усиления внимания"
+  }
+}

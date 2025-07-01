@@ -45,6 +45,10 @@ def main(video_path):
     run(["python", "app/analyze_visual_dynamics.py"], "Анализ яркости и вспышек")
     run(["python", "app/analyze_motion.py"], "Анализ движения")
 
+    # 11. Аудио-анализ
+    run(["python", "app/analyze_audio.py"], "Анализ аудио")
+
+
     # 11. Финальный JSON
     run(["python", "app/generate_video_profile.py"], "Генерация финального профиля")
 

@@ -1,0 +1,293 @@
+{
+  "emotions_by_section": {
+    "Other": {
+      "dominant_emotion": "happy",
+      "avg_score": 0.609,
+      "count": 19
+    },
+    "Climax": {
+      "dominant_emotion": "sad",
+      "avg_score": 0.48,
+      "count": 1
+    }
+  },
+  "speech_structure": [
+    {
+      "time": 15.0,
+      "text": "Remember we're going to go to right, left, right, shuffle to the right, left, right, shuffle to the left, 1 2 3.",
+      "section": "Hook"
+    },
+    {
+      "time": 15.5,
+      "text": "So right, back, 1 2 3, left, back, 1 2 3.",
+      "section": "Buildup"
+    },
+    {
+      "time": 16.0,
+      "text": "Let's do it again.",
+      "section": "Climax"
+    },
+    {
+      "time": 16.5,
+      "text": "Right, left, 1 2 3, left, right, 1 2 3, cross right, back, 1 2 3, cross left, back, 1 2 3.",
+      "section": "Buildup"
+    },
+    {
+      "time": 17.0,
+      "text": "Now once you get the basic steps down, you can do any fancy move as you want to do.",
+      "section": "Other"
+    },
+    {
+      "time": 17.5,
+      "text": "You can twirl around if you want to.",
+      "section": "Other"
+    },
+    {
+      "time": 18.0,
+      "text": "Let's take it from the top.",
+      "section": "Climax"
+    },
+    {
+      "time": 18.5,
+      "text": "Right, left, 1 2 3, left, right, 1 2 3, cross right, back, 1 2 3, cross left, back, 1 2 3.",
+      "section": "Buildup"
+    },
+    {
+      "time": 19.0,
+      "text": "One more time.",
+      "section": "Climax"
+    },
+    {
+      "time": 19.5,
+      "text": "From the top.",
+      "section": "CTA"
+    },
+    {
+      "time": 25.0,
+      "text": "Kick, cross, step, step, left, kick, cross, step, step.",
+      "section": "Hook"
+    },
+    {
+      "time": 25.5,
+      "text": "Kick, cross, step, step, step.",
+      "section": "Buildup"
+    },
+    {
+      "time": 26.0,
+      "text": "All right, let's take it from the top.",
+      "section": "CTA"
+    },
+    {
+      "time": 26.5,
+      "text": "Right, left, 1 2 3, left, right, 1 2 3, cross, three, cross, right, one, two, three, cross, left, one, two, three.",
+      "section": "Climax"
+    },
+    {
+      "time": 27.0,
+      "text": "Kick, cross, step, step, kick, cross, step, step.",
+      "section": "Buildup"
+    },
+    {
+      "time": 27.5,
+      "text": "Let's take it from the top.",
+      "section": "CTA"
+    },
+    {
+      "time": 28.0,
+      "text": "Ready, go.",
+      "section": "Climax"
+    },
+    {
+      "time": 28.5,
+      "text": "Right, left, one, two, three, left, right, one, two, three, cross, right, one, two, three, cross, back, one, two, three.",
+      "section": "Climax"
+    },
+    {
+      "time": 29.0,
+      "text": "Kick, cross, step, step, and kick, cross, step, step.",
+      "section": "Buildup"
+    },
+    {
+      "time": 29.5,
+      "text": "Do it again.",
+      "section": "Other"
+    },
+    {
+      "time": 30.0,
+      "text": "Two more times from the top.",
+      "section": "Buildup"
+    },
+    {
+      "time": 30.5,
+      "text": "Right, left, left, right, shovel to the left.",
+      "section": "Buildup"
+    },
+    {
+      "time": 31.0,
+      "text": "Right, back, one, two, three, left, back, one, two, three.",
+      "section": "Hook"
+    },
+    {
+      "time": 31.5,
+      "text": "Kick, cross, step, step, and kick, cross, step, step.",
+      "section": "Climax"
+    },
+    {
+      "time": 32.0,
+      "text": "All right, one more time from the top.",
+      "section": "CTA"
+    },
+    {
+      "time": 32.5,
+      "text": "I know you got it.",
+      "section": "CTA"
+    },
+    {
+      "time": 33.0,
+      "text": "Ready?",
+      "section": "Buildup"
+    },
+    {
+      "time": 33.5,
+      "text": "Let's go.",
+      "section": "Other"
+    },
+    {
+      "time": 35.0,
+      "text": "Kick, cross, step, step, for the third one, and then kick, cross, kick, cross, step, slide.",
+      "section": "Hook"
+    },
+    {
+      "time": 35.5,
+      "text": "Okay, slide, and then you start over.",
+      "section": "Buildup"
+    },
+    {
+      "time": 36.0,
+      "text": "So let's start from the last two moves.",
+      "section": "Climax"
+    },
+    {
+      "time": 36.5,
+      "text": "Kick, cross, step, step, kick, cross, slide.",
+      "section": "Hook"
+    },
+    {
+      "time": 37.0,
+      "text": "Okay, ready?",
+      "section": "CTA"
+    },
+    {
+      "time": 37.5,
+      "text": "Let's do it again.",
+      "section": "CTA"
+    },
+    {
+      "time": 38.0,
+      "text": "Kick, oops, kick, cross, step, step, kick, cross, slide.",
+      "section": "Other"
+    },
+    {
+      "time": 38.5,
+      "text": "And then you start one, two, one, two, three, one, two, one, two, three, right, cross.",
+      "section": "Climax"
+    },
+    {
+      "time": 39.0,
+      "text": "All right, so let's do it.",
+      "section": "CTA"
+    },
+    {
+      "time": 39.5,
+      "text": "Those last two moves and then we'll take it from the top.",
+      "section": "Other"
+    },
+    {
+      "time": 40.0,
+      "text": "Ready?",
+      "section": "Hook"
+    },
+    {
+      "time": 40.5,
+      "text": "Go.",
+      "section": "Buildup"
+    },
+    {
+      "time": 41.0,
+      "text": "Kick, cross, step, step, and kick, cross, slide.",
+      "section": "Climax"
+    },
+    {
+      "time": 41.5,
+      "text": "All right, now let's take it from the top.",
+      "section": "Other"
+    },
+    {
+      "time": 42.0,
+      "text": "Ready?",
+      "section": "Hook"
+    },
+    {
+      "time": 42.5,
+      "text": "Go.",
+      "section": "Buildup"
+    },
+    {
+      "time": 43.0,
+      "text": "Right, left, one, two, three, left, right, one, two, three, cross, right, one, two, three, left, cross, one, two, three, kick, cross, step, step, and kick, cross, step, step, and kick, cross, step.",
+      "section": "Climax"
+    },
+    {
+      "time": 43.5,
+      "text": "This is the third one and then on fourth, one, slide.",
+      "section": "Other"
+    },
+    {
+      "time": 44.0,
+      "text": "All right, let's take it from the top.",
+      "section": "Other"
+    },
+    {
+      "time": 44.5,
+      "text": "One, two, one, two, three, and left, two, one, two, three, and right, cross, back, two, three, left, cross, one, two, three, kick, cross, step, step, and kick, cross, step, step, step, and kick, third, one, step, step, step, fourth, one, kick, and slide.",
+      "section": "Climax"
+    },
+    {
+      "time": 45.0,
+      "text": "And then one, two, one, two, three, one, two, three, left, and then right, take it back, left, take it back and kick, cross, step, step, step and kick, cross, step, step and kick, cross, step.",
+      "section": "Hook"
+    },
+    {
+      "time": 45.5,
+      "text": "This is the third one, now fourth, one, and slide, and one, two, one, two, three, two, one, two, three, right, back, one, two, three, left, back, one, two, three, and kick, cross, step, step and kick, cross, step, step and kick, cross, step, step, now fourth, one, slide, one, two, one, two, three, left, two, one, two, three, right, back, one, two, three, left, back, one, two, three, and kick, cross, step, step, step, and kick, cross, step, step, and kick, cross, step, last one, kick, cross, slide, and one, two, one, two, three, one, two, one, two, three, right, back, one, two, three, left, one, two, three, and kick, cross, step, kick, cross, step, step, third, one, cross, step, fourth, one, kick, step, slide, and that's the whole dance, all right, so click on the link to see me doing the dance, and then with the music, of course, click on the link to see me doing the dance with the music, and consider becoming a member here on YouTube so that you can get exclusive content, it's a very low price, and we're going to be going live soon for members only, all right, keep moving, remember doing something is better than nothing, let's go!",
+      "section": "Buildup"
+    }
+  ],
+  "hook_objects": {
+    "person": 8,
+    "bed": 6
+  },
+  "buildup_objects": {
+    "person": 13,
+    "bed": 6
+  },
+  "color_profile": {
+    "avg_saturation": 69.22,
+    "avg_contrast": 74.92
+  },
+  "visual_peaks": [
+    {
+      "frame": "frame_00001.jpg",
+      "brightness": 166.75,
+      "change": 70.43
+    }
+  ],
+  "motion": {
+    "avg_motion_strength": 1.24,
+    "max_motion_strength": 15.06
+  },
+  "hook_sync_issue": {
+    "description": "Визуальный hook запаздывает на 1–2 секунды по сравнению с речевым",
+    "recommendation": "Показать собаку/костюм визуально в первые 1.5 сек ролика для усиления внимания"
+  }
+}
